@@ -1,1 +1,1 @@
-# ASPNET6
+# What's New in ASP.NET Core 6
